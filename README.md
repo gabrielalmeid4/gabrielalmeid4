@@ -16,6 +16,6 @@
 
 ### 🛠️ Ferramentas & Outros
 - Git & GitHub
-- Hospedagem em Cloud
+- Hospedagem em Cloud (Railway, Neon)
 
 ---
