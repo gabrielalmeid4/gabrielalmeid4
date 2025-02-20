@@ -20,7 +20,7 @@ Sou um programador backend apaixonado por desenvolver APIs rápidas, escaláveis
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 🚀 Banco de Dados:
+## 💾 Banco de Dados:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
