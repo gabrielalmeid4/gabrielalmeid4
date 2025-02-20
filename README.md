@@ -1,5 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
+Sou um programador backend apaixonado por desenvolver APIs rápidas, escaláveis e eficientes, sempre buscando soluções robustas e bem estruturadas. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalmeid4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
